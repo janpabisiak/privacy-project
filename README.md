@@ -44,9 +44,3 @@ Google saves everything you have searched for and a lot of other data about you.
 
 ### Bonus. Don't use Social Media
 Social Media aren't your friends. The relationship between users and social media is more like keeping a parasite on you. Most social media do not respect privacy because people are their commodity. If you don't need some social media remove your account on it.
-
-## In Privacy We Trust
-### Donate
-- BTC: 3Gd6f2ChYwspMAzQo94zMXB3bEHeLtRav4
-- ETH: 0xf76F03F82341DbD488545B750756DF1f0e5e77e0
-- DOGE: D6aga8Fx58yDs94HRGAHviDbhBLTt5ahGP
